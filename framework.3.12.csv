@@ -1,0 +1,129 @@
+sha256:9d34bebe71fdebfd288b3e87a9b8372e47a9291782c09fbaeb657f8f78817779,amd64,windows,"Windows Server 2016",4.8,4.8/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:c6bbee57853ee847d1f48048c2fde8b375d601409c957fa244b2540daff879c4,amd64,windows,"Windows Server, version 1903",3.5,3.5/runtime/windowsservercore-1903/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+3.5-20200211-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",3.5,3.5/runtime/windowsservercore-1903/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+3.5-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",3.5,3.5/runtime/windowsservercore-1903/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+sha256:576969423f45afd3ea7cc41264bc63a7e57be109ebf43ba6816ea7024ab638d3,amd64,windows,"Windows Server, version 1909",4.8,4.8/sdk/windowsservercore-1909/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+4.8-20200310-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/sdk/windowsservercore-1909/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+4.8-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/sdk/windowsservercore-1909/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+sha256:b94bedec8ea71fcfd43b8127137c7d7e65bc7ce3bd319696bb067caa512b814f,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+4.7.1-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+4.7.1-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+sha256:24387325b9efd91b81686b60791f54d8fbaa6acb06855f376bf9be6cc9133815,amd64,windows,"Windows Server, version 1903",3.5,3.5/aspnet/windowsservercore-1903/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:42
+3.5-20200211-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",3.5,3.5/aspnet/windowsservercore-1903/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:42
+3.5-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",3.5,3.5/aspnet/windowsservercore-1903/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:42
+sha256:88bbdb8c1d18a579887470d5bbfb06358eeb62af6edbca69e686830fe5ccf26a,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/wcf/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:44
+4.7.2-20200310-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/wcf/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:44
+4.7.2-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/wcf/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:44
+sha256:2bcb97df56cc6787b278a69cc367314835e2b46b7a833b6c0e1b0f599c555bc8,amd64,windows,"Windows Server 2016",4.7,4.7/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:33
+4.7-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7,4.7/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:33
+4.7-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7,4.7/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:33
+sha256:cb7a2e20ad50a98f32578b40de5b5cc9f4088fc2c5ebea8949042de9d665c089,amd64,windows,"Windows Server, version 1903",4.8,4.8/sdk/windowsservercore-1903/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:36
+4.8-20200310-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/sdk/windowsservercore-1903/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:36
+4.8-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/sdk/windowsservercore-1903/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:36
+sha256:d3f836bc03e7cdb6ef30c37646d4998c19555a75d3383b8c8354add53660c6f7,amd64,windows,"Windows Server, version 1903",4.8,4.8/aspnet/windowsservercore-1903/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:38
+4.8-20200310-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/aspnet/windowsservercore-1903/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:38
+4.8-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/aspnet/windowsservercore-1903/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:38
+sha256:b8bd272ba3a5a6950ab27228637fb7beee82ca7b427704bd1da037089f5c8dd6,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+4.6.2-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+4.6.2-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+sha256:c9b9b152f941e9466fdae70165f2481136aa99d9c0160d956b966a835ce85254,amd64,windows,"Windows Server 2019",4.8,4.8/wcf/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+4.8-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/wcf/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+4.8-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/wcf/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+sha256:db90882c44871a85449156f97349bc52c98385d388394790f02e785658950118,amd64,windows,"Windows Server 2016",4.7,4.7/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+4.7-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7,4.7/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+4.7-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7,4.7/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+sha256:bc632acb60d64458add4b14085393f9a540ddcbdcad1446579ed3bee88c3e2a9,amd64,windows,"Windows Server, version 1903",4.8,4.8/runtime/windowsservercore-1903/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-20200310-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/runtime/windowsservercore-1903/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/runtime/windowsservercore-1903/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:4894000f8408888ce99dcfe203e1b49077003b7a06e9668975cacaa5b2fcb2e5,amd64,windows,"Windows Server 2019",4.8,4.8/sdk/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:35
+4.8-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/sdk/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:35
+4.8-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/sdk/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:35
+sha256:e53049e13aa29b2df35642fa827c532ceaa78745e6ca72be2cbe74b1d75b5b99,amd64,windows,"Windows Server 2016",4.8,4.8/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:37
+4.8-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:37
+4.8-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:37
+sha256:1301a55485d99e9c01e5dff53b330167ea1be6912dd38e0f3f36066d63c87fba,amd64,windows,"Windows Server 2016",4.7,4.7/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+4.7-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7,4.7/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+4.7-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7,4.7/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+sha256:2bb2a632a18d93499c9270a500d4ae19cf5ef3e4a966eca39622c163a9f58aa2,amd64,windows,"Windows Server, version 1909",3.5,3.5/aspnet/windowsservercore-1909/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:42
+3.5-20200211-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",3.5,3.5/aspnet/windowsservercore-1909/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:42
+3.5-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",3.5,3.5/aspnet/windowsservercore-1909/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:42
+sha256:6f7459f66bdeaee69bde549060e3079682cd89a7e29df565e38fa37ba3ddc217,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:44
+4.7.2-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:44
+4.7.2-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:44
+sha256:5e2f79c43bca75a1d87431e3064fa88567a59ba56ee3a968abb28f7c5f387270,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.7.2-20200310-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.7.2-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:914966da98b51e04a24c7f05d95abc15f52d0122cf1f43adaa326e96a15571f1,amd64,windows,"Windows Server 2016",4.8,4.8/sdk/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:35
+4.8-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/sdk/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:35
+4.8-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/sdk/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:35
+sha256:7a14aa0c4f989a7738199c810bbe46f338828cb44652b1f079516f31a6ecf25b,amd64,windows,"Windows Server, version 1909",3.5,3.5/sdk/windowsservercore-1909/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+3.5-20200211-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",3.5,3.5/sdk/windowsservercore-1909/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+3.5-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",3.5,3.5/sdk/windowsservercore-1909/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+sha256:57eaccbd1f9e776085f4b56f97e38f48a1451a7dfe97ca37c199757521b5195d,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+4.7.2-20200310-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+4.7.2-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.7.2,4.7.2/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+sha256:daed0a08cea236c49e4755683696eedd56ea0ad4ed60a81708c23bd9667890bd,amd64,windows,"Windows Server 2019",3.5,3.5/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:41
+3.5-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",3.5,3.5/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:41
+3.5-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",3.5,3.5/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:41
+sha256:f367114d4240b9724311cad8a1a5f5860423fac8269550975e5bd01696994b9a,amd64,windows,"Windows Server, version 1909",4.8,4.8/wcf/windowsservercore-1909/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+4.8-20200310-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/wcf/windowsservercore-1909/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+4.8-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/wcf/windowsservercore-1909/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+sha256:caec90e9738f6b28fe40fb900d96a1527073b0a39393630997551793c7b655bf,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.7.1-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.7.1-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:a0f19f8b6b78b57df9e82d7ee2ad4e56050a9f8854c765776c873039d72f0d31,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+4.6.2-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+4.6.2-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+sha256:a5b5b25933fbc2e856cd977612017e2ce40942d3b88d80cefe8d2d4c73299823,amd64,windows,"Windows Server 2019",3.5,3.5/sdk/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+3.5-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",3.5,3.5/sdk/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+3.5-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",3.5,3.5/sdk/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+sha256:830810a8af5964f4cba69e5dde3c109b21b940796f11f798e2da2eb79db5647f,amd64,windows,"Windows Server, version 1909",4.8,4.8/aspnet/windowsservercore-1909/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+4.8-20200310-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/aspnet/windowsservercore-1909/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+4.8-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/aspnet/windowsservercore-1909/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:39
+sha256:f2207ea846dc71f191c10dfdaf107b7f78ab47d4a740b6376da50a33d97a78eb,amd64,windows,"Windows Server 2016",3.5,3.5/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:41
+3.5-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",3.5,3.5/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:41
+3.5-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",3.5,3.5/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:41
+sha256:8b875818dcfe5f0e3532c8aac4874bd5ec08b532e6a99de8110d5d87fa7f325b,amd64,windows,"Windows Server, version 1903",4.8,4.8/wcf/windowsservercore-1903/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+4.8-20200310-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/wcf/windowsservercore-1903/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+4.8-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",4.8,4.8/wcf/windowsservercore-1903/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:43
+sha256:b109e34fa6ab78013137a22d4dd2a06e4670fab628e9b877b29dd0104f1d8404,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+4.6.2-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+4.6.2-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.6.2,4.6.2/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+sha256:fb133949a90f3c00bac8001f1eca2c9dc37e5e164e853d98aa829615a0115bed,amd64,windows,"Windows Server 2019",4.8,4.8/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:140617ce27fd68843fe1bcad3708722e3f334076d1422634af9159596fa5cd9e,amd64,windows,"Windows Server, version 1909",3.5,3.5/runtime/windowsservercore-1909/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:35
+3.5-20200211-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",3.5,3.5/runtime/windowsservercore-1909/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:35
+3.5-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",3.5,3.5/runtime/windowsservercore-1909/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:35
+sha256:c7c8ff25e51643d1024e23869d11a2b676ca574d231dd94a8cd1db5ab6f8f2d3,amd64,windows,"Windows Server 2019",4.8,4.8/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:44
+4.8-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:44
+4.8-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",4.8,4.8/aspnet/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:44
+sha256:06b88afed2c4520d24cdb1b9789c1927d67e5f4b194650def4c943fccb74cd5c,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.7.2-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.7.2-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:623a4d0d700e6588192d579eba3f20c1ce6c665d7daab247ff5dbd230ec5bc10,amd64,windows,"Windows Server 2016",3.5,3.5/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+3.5-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",3.5,3.5/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+3.5-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",3.5,3.5/runtime/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:34
+sha256:9363035a67f8ad94d170bbcd04cc7a1179887e0486a21a026a92bee8485861cb,amd64,windows,"Windows Server 2016",3.5,3.5/sdk/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+3.5-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",3.5,3.5/sdk/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+3.5-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",3.5,3.5/sdk/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:37
+sha256:9aedea7e944e1ea91bd0bf17a40b847d7d959558ac356d89e5342a7d17a09dfa,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+4.7.2-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+4.7.2-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.2,4.7.2/aspnet/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/aspnet,2020-03-12 21:51:40
+sha256:918b9b6b441a4c7ee27440aac28c06199b31f95c510ccdddb502dd3dd64f3c9e,amd64,windows,"Windows Server 2016",4.8,4.8/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:42
+4.8-20200211-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:42
+4.8-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.8,4.8/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:42
+sha256:76544c82051ce28de3b0501239eeead5f06a33008752fb721f2ceffe06630824,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+4.7.1-20200312-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+4.7.1-windowsservercore-ltsc2016,amd64,windows,"Windows Server 2016",4.7.1,4.7.1/wcf/windowsservercore-ltsc2016/Dockerfile,dotnet/framework/wcf,2020-03-12 21:51:45
+sha256:f476d5f9a1d78f79a70a995a0925d33b69d904a25decc3196e31e85863d13d3a,amd64,windows,"Windows Server, version 1909",4.8,4.8/runtime/windowsservercore-1909/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-20200310-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/runtime/windowsservercore-1909/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+4.8-windowsservercore-1909,amd64,windows,"Windows Server, version 1909",4.8,4.8/runtime/windowsservercore-1909/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:32
+sha256:9ba97106b0ad15f11ba621c4863f47f2ee6685ac3b99d12320e14d9de2cbc57d,amd64,windows,"Windows Server 2019",3.5,3.5/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:35
+3.5-20200211-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",3.5,3.5/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:35
+3.5-windowsservercore-ltsc2019,amd64,windows,"Windows Server 2019",3.5,3.5/runtime/windowsservercore-ltsc2019/Dockerfile,dotnet/framework/runtime,2020-03-12 21:51:35
+sha256:4bdbb33b7d1c939c39c9ef22813667cede178991fea4d18c893f659bf8e3cb48,amd64,windows,"Windows Server, version 1903",3.5,3.5/sdk/windowsservercore-1903/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:44
+3.5-20200211-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",3.5,3.5/sdk/windowsservercore-1903/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:44
+3.5-windowsservercore-1903,amd64,windows,"Windows Server, version 1903",3.5,3.5/sdk/windowsservercore-1903/Dockerfile,dotnet/framework/sdk,2020-03-12 21:51:44
