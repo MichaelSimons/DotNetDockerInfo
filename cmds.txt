@@ -1,0 +1,2 @@
+dotnet run --project ..\docker-tools\src\Microsoft.DotNet.ImageBuilder\src\Microsoft.DotNet.ImageBuilder.csproj -- generateImageDigestCsv --os-type * -
+-architecture * D:\repos\DotNetDockerInfo\core.3.23.csv
