@@ -1,0 +1,393 @@
+sha256:e28e2c3c3d62f24693ab69b7aec703c8447ad75665f79ed03aae0af91fd4cf6e,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/runtime-deps/bionic/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-bionic,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/runtime-deps/bionic/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-bionic,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/runtime-deps/bionic/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:045e2cd04289462e607912d88f679ad693ee3b97d5f84b2eac1190c68bfcb8ce,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-alpine3.11,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-alpine3.11,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-alpine,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-alpine,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:c900ae04c98e57afac8f14c0f3ab48d5fd882c03bcdd6cad26077925e64e3a75,arm64,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0.0-preview.2-buster-slim-arm64v8,arm64,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0-buster-slim-arm64v8,arm64,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+sha256:73b708649babb808853c976f79f0f0853c97c08f255696e5550b82244835117c,amd64,windows,"Windows Server, version 1909",2.1.17,2.1/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-nanoserver-1909,amd64,windows,"Windows Server, version 1909",2.1.17,2.1/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-nanoserver-1909,amd64,windows,"Windows Server, version 1909",2.1.17,2.1/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:5b83db48bff8a2dacfbddf83287cbe2de8b759c5c78fbc646a07a4b926fa2311,amd64,windows,"Windows Server, version 1909",3.1.3,3.1/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:04
+3.1.3-nanoserver-1909,amd64,windows,"Windows Server, version 1909",3.1.3,3.1/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:04
+3.1-nanoserver-1909,amd64,windows,"Windows Server, version 1909",3.1.3,3.1/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:04
+sha256:a73f9100f80c195eb1c81742bbbf3cc4832e3912c7cb0df3f417c275adcedeaa,amd64,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+5.0.0-preview.2-buster-slim,amd64,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+5.0-buster-slim,amd64,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+sha256:c8d29f9f97e45668103cece2c14107b194a7267b88718147a15670b69a03ea04,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-alpine-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-alpine-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:a95860482743d765ec424a7cc3111b3ed446a57a8100bce1bd0cb1ef652f1be1,arm32,linux,"Debian 9",2.1.17,2.1/aspnet/stretch-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-stretch-slim-arm32v7,arm32,linux,"Debian 9",2.1.17,2.1/aspnet/stretch-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-stretch-slim-arm32v7,arm32,linux,"Debian 9",2.1.17,2.1/aspnet/stretch-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:02f383d85c922f6734509afb9800d8d5775455afacbf3f34bf62b438e4e99479,arm32,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:14
+3.1.3-buster-slim-arm32v7,arm32,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:14
+3.1-buster-slim-arm32v7,arm32,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:14
+sha256:e52da49ef417387a5ba61a2fe8caccc5ef8c9b9061545a5bb18ea993f381acef,arm64,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:16
+3.1.3-buster-slim-arm64v8,arm64,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:16
+3.1-buster-slim-arm64v8,arm64,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:16
+sha256:6281aca6f3173c6d8cc3f8342ec0684ab2ac2882d0124f12f46dfbdd2f2dd07b,amd64,windows,"Windows Server 2019",5.0.0,5.0/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0.0-preview.2-nanoserver-1809,amd64,windows,"Windows Server 2019",5.0.0,5.0/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0-nanoserver-1809,amd64,windows,"Windows Server 2019",5.0.0,5.0/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+sha256:c950c03070e4237459c8fa7d490d17a9f30562f3346142b9fe56586da6a158b6,amd64,windows,"Windows Server, version 1903",5.0.0,5.0/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+5.0.0-preview.2-nanoserver-1903,amd64,windows,"Windows Server, version 1903",5.0.0,5.0/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+5.0-nanoserver-1903,amd64,windows,"Windows Server, version 1903",5.0.0,5.0/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+sha256:285adb0ab1e5644fb5a3ad1085370bb35a4be5f13c753f71da845a7c8524fed6,amd64,linux,"Ubuntu 18.04",2.1.805,2.1/sdk/bionic/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+2.1.805-bionic,amd64,linux,"Ubuntu 18.04",2.1.805,2.1/sdk/bionic/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+2.1-bionic,amd64,linux,"Ubuntu 18.04",2.1.805,2.1/sdk/bionic/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+sha256:b80ae7d865e92d69047f7dd6d7d1c964e53c871900ea121db3eaf0839414c2c3,arm32,linux,"Ubuntu 18.04",2.1.805,2.1/sdk/bionic/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+2.1.805-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.805,2.1/sdk/bionic/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+2.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.805,2.1/sdk/bionic/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+sha256:15d5d6737d42fea87be7a6ae53d27d7439ea89f75dd0e6ce2e5f2c50b4059d71,amd64,linux,"Alpine 3.10",2.1.17,2.1/runtime-deps/alpine3.10/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-alpine3.10,amd64,linux,"Alpine 3.10",2.1.17,2.1/runtime-deps/alpine3.10/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-alpine3.10,amd64,linux,"Alpine 3.10",2.1.17,2.1/runtime-deps/alpine3.10/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:1f1836226eae81768303da95e7340f97d364e21a52d165c7a73882d4c2660151,amd64,linux,"Alpine 3.10",3.1.3,3.1/runtime-deps/alpine3.10/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-alpine3.10,amd64,linux,"Alpine 3.10",3.1.3,3.1/runtime-deps/alpine3.10/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-alpine3.10,amd64,linux,"Alpine 3.10",3.1.3,3.1/runtime-deps/alpine3.10/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:4e2f2624efe57312635cf413037bf86595f831960d1a7f71f1dde7309b8d4598,amd64,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0.0-preview.2-buster-slim,amd64,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0-buster-slim,amd64,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+sha256:0e0359ff2220d18a2ac3f807dc30dbb589ffade118dd9dae92277e87546e1ddc,amd64,windows,"Windows Server, version 1903",2.1.17,2.1/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-nanoserver-1903,amd64,windows,"Windows Server, version 1903",2.1.17,2.1/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-nanoserver-1903,amd64,windows,"Windows Server, version 1903",2.1.17,2.1/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:7b5a2e5c040990b5dd1e33f1273d08c81ba40d4582cefa808885c662bd3f83a5,amd64,linux,"Alpine 3.10",3.1.3,3.1/runtime/alpine3.10/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:04
+3.1.3-alpine3.10,amd64,linux,"Alpine 3.10",3.1.3,3.1/runtime/alpine3.10/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:04
+3.1-alpine3.10,amd64,linux,"Alpine 3.10",3.1.3,3.1/runtime/alpine3.10/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:04
+sha256:c258ff6db15f67076ed876bd8afbce8dcf36fba338969c06ece389722e45c5b8,arm32,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+5.0.0-preview.2-buster-slim-arm32v7,arm32,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+5.0-buster-slim-arm32v7,arm32,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+sha256:8845d69be86aad2d59262cff524a8ac8428ce95fba14d53f6b94bbc1b816b770,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime/focal/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-focal,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime/focal/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-focal,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime/focal/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:05a6b31d662ff296056d5186a75363ef863fec681a129c2f32428614cb2cfced,amd64,windows,"Windows Server, version 1909",2.1.17,2.1/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-nanoserver-1909,amd64,windows,"Windows Server, version 1909",2.1.17,2.1/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-nanoserver-1909,amd64,windows,"Windows Server, version 1909",2.1.17,2.1/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:3e2dccff7847c4ee172b38b547f620533405c70241effc3761c51acb1e0b4e8a,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+sha256:324382296f9507c882f915622a113ad44552b60b6e6f7f94ede2b97764e935ce,amd64,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:18
+5.0.0-preview.2-buster-slim,amd64,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:18
+5.0-buster-slim,amd64,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:18
+sha256:21e0f31582de22e69b87c3fc9bfbb0878bceddf0c508bc74cadaff1e23c62e4d,amd64,linux,"Alpine 3.10",2.1.805,2.1/sdk/alpine3.10/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+2.1.805-alpine3.10,amd64,linux,"Alpine 3.10",2.1.805,2.1/sdk/alpine3.10/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+2.1-alpine3.10,amd64,linux,"Alpine 3.10",2.1.805,2.1/sdk/alpine3.10/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+sha256:fde6baee640db6764a719e3901e3935756fff603cae1703f8a9d654d7986df80,amd64,linux,"Alpine 3.11",2.1.805,2.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:24
+2.1.805-alpine3.11,amd64,linux,"Alpine 3.11",2.1.805,2.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:24
+2.1-alpine3.11,amd64,linux,"Alpine 3.11",2.1.805,2.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:24
+2.1.805-alpine,amd64,linux,"Alpine 3.11",2.1.805,2.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:24
+2.1-alpine,amd64,linux,"Alpine 3.11",2.1.805,2.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:24
+sha256:78638686a5d9aeb5452322f6a614ff5f523e5d6d33ccb213225357cc9dfdae35,arm32,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:27
+3.1.201-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:27
+3.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:27
+sha256:651f981d711288c18d3ba2f0212aba02b1ddca3217ab4f386eb1b29d705f1562,arm64,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:29
+3.1.201-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:29
+3.1-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:29
+sha256:e8682fd2e7836ee75453746fa00fec51d462524d1ca5081c89152061e404509a,amd64,linux,"Debian 9",2.1.17,2.1/runtime-deps/stretch-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-stretch-slim,amd64,linux,"Debian 9",2.1.17,2.1/runtime-deps/stretch-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-stretch-slim,amd64,linux,"Debian 9",2.1.17,2.1/runtime-deps/stretch-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:76ffd5d18e25831ffbfed3ab5e5e157aba401272ec026cc9f4eafe625d1a0666,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-bionic,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-bionic,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:068b4003c2d9e5f81c9f799a90db7993bacfef7a221f4a24262cd6e73e78860b,amd64,linux,"Debian 9",2.1.17,2.1/runtime/stretch-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:29:58
+2.1.17-stretch-slim,amd64,linux,"Debian 9",2.1.17,2.1/runtime/stretch-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:29:58
+2.1-stretch-slim,amd64,linux,"Debian 9",2.1.17,2.1/runtime/stretch-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:29:58
+sha256:f81ff2a88b5c26c03d37fa078b77a2e02b5af3d353257b485a0e306aa667226d,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/runtime/bionic/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/runtime/bionic/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/runtime/bionic/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:8624cdf8847ff88ff1ab294c43d3ea5f6d8808983b06e2a5282a0d14c396114f,amd64,windows,"Windows Server 2019",3.1.3,3.1/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1.3-nanoserver-1809,amd64,windows,"Windows Server 2019",3.1.3,3.1/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1-nanoserver-1809,amd64,windows,"Windows Server 2019",3.1.3,3.1/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+sha256:529bb5201eca5832b05a7cac194d5650df3bc4bcec40740bb9cf2970bb16946f,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+3.1.3-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+3.1-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+sha256:27f3375e7fab1b7b709786a0de8b253bc601c1ad36a3fbc127af80222ccf00cd,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-alpine3.11,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-alpine3.11,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-alpine,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-alpine,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:06f2b73b385176b8b4cd4cbf5d3b8476e0185e3107a3d235fc90871eb26e4303,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/aspnet/bionic/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-bionic,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/aspnet/bionic/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-bionic,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/aspnet/bionic/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:a1ca7f6caabc63a551cf43f924c9cb098444f2b29b0ded85fe7499ff7018afbe,amd64,linux,"Alpine 3.10",3.1.3,3.1/aspnet/alpine3.10/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-alpine3.10,amd64,linux,"Alpine 3.10",3.1.3,3.1/aspnet/alpine3.10/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-alpine3.10,amd64,linux,"Alpine 3.10",3.1.3,3.1/aspnet/alpine3.10/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+sha256:977a5320aea93d03da209f49191cd9d548dcc3046002c1677058beeaa213f5aa,arm64,linux,"Alpine 3.10",3.1.3,3.1/aspnet/alpine3.10/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1.3-alpine3.10-arm64v8,arm64,linux,"Alpine 3.10",3.1.3,3.1/aspnet/alpine3.10/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1-alpine3.10-arm64v8,arm64,linux,"Alpine 3.10",3.1.3,3.1/aspnet/alpine3.10/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+sha256:2e6db29de5a4ee6dda9aa14b8d239813e0019153e83decef566591186cccbe0f,amd64,windows,"Windows Server, version 1909",5.0.0,5.0/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:20
+5.0.0-preview.2-nanoserver-1909,amd64,windows,"Windows Server, version 1909",5.0.0,5.0/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:20
+5.0-nanoserver-1909,amd64,windows,"Windows Server, version 1909",5.0.0,5.0/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:20
+sha256:afc246f2e7c70b82027506f7932680c0d4aa602b8dc713d597d78cdd59e68713,amd64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:25
+5.0.0-preview.2-alpine3.11,amd64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:25
+5.0-alpine3.11,amd64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:25
+5.0.0-preview.2-alpine,amd64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:25
+5.0-alpine,amd64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:25
+sha256:5bd2be85a6a12f22747b2f0f32ca4c39de426e1a6f427fde0fda26968360367a,amd64,linux,"Debian 10",5.0.100,5.0/sdk/buster/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:27
+5.0.100-preview.2-buster,amd64,linux,"Debian 10",5.0.100,5.0/sdk/buster/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:27
+5.0-buster,amd64,linux,"Debian 10",5.0.100,5.0/sdk/buster/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:27
+sha256:7016cbaf5dc99a817964bd9d1e9bace570c32c27b5ed87b09478ccc87d7e9a52,arm32,linux,"Debian 10",5.0.100,5.0/sdk/buster/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0.100-preview.2-buster-arm32v7,arm32,linux,"Debian 10",5.0.100,5.0/sdk/buster/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0-buster-arm32v7,arm32,linux,"Debian 10",5.0.100,5.0/sdk/buster/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+sha256:49499b6a3617b1d130b6e8a7a0b08aea92a6f2c4cf1829bea2743a6fdb78f1c0,arm32,linux,"Debian 9",2.1.17,2.1/runtime-deps/stretch-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-stretch-slim-arm32v7,arm32,linux,"Debian 9",2.1.17,2.1/runtime-deps/stretch-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-stretch-slim-arm32v7,arm32,linux,"Debian 9",2.1.17,2.1/runtime-deps/stretch-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:2d2e40742f7ca907b20992e40fc749293d1f9c6dff5a35575ca0a4a1ad6e1f6c,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-alpine-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-alpine-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:775a48122c2b8f61db801c7e4a862d747faebf4e574b3580b256b49f5b913a95,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+5.0.0-preview.2-alpine3.11,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+5.0-alpine3.11,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+5.0.0-preview.2-alpine,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+5.0-alpine,amd64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+sha256:c1783785e47aa44fd18cf3218bdbef9756fec3736f4201bec8df40bccabab618,arm32,linux,"Debian 9",2.1.17,2.1/runtime/stretch-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-stretch-slim-arm32v7,arm32,linux,"Debian 9",2.1.17,2.1/runtime/stretch-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-stretch-slim-arm32v7,arm32,linux,"Debian 9",2.1.17,2.1/runtime/stretch-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:cd6a1c7fd123fe7df8eeacc11016da6a8f42b6a5ea0eae6d11c3d5307aefe6ff,amd64,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1.3-buster-slim,amd64,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1-buster-slim,amd64,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+sha256:fba9eff383737bc4bdc61a498b0dce65153cb545215c3a5fab7143b8a48d1e7c,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1.3-alpine3.11,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1-alpine3.11,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1.3-alpine,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1-alpine,amd64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+sha256:6046ece25a2e8f6fd5b2108b1eb57fb87d62bb64234c0bed6a902158b2b59a28,amd64,windows,"Windows Server 2019",5.0.0,5.0/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-nanoserver-1809,amd64,windows,"Windows Server 2019",5.0.0,5.0/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-nanoserver-1809,amd64,windows,"Windows Server 2019",5.0.0,5.0/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:b934b1e278222b826b8aa58eca38541a5978aa8262dbacc76da97ac84a825595,amd64,linux,"Alpine 3.11",2.1.17,2.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-alpine3.11,amd64,linux,"Alpine 3.11",2.1.17,2.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-alpine3.11,amd64,linux,"Alpine 3.11",2.1.17,2.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-alpine,amd64,linux,"Alpine 3.11",2.1.17,2.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-alpine,amd64,linux,"Alpine 3.11",2.1.17,2.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:149dda5f2ce3fcbb9771e2e8ede70c7cc5a635fbed97b9e277c65de5f98cf753,amd64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-alpine3.11,amd64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-alpine3.11,amd64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-alpine,amd64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-alpine,amd64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+sha256:f667ed2791f327ec29702d9fb71a83467e708ff14b29cda68b168db5c2bd23b7,arm64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1.3-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1.3-alpine-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1-alpine-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+sha256:53d6b1f092bd20945a14fabd2adcecf432f34758f06485271084b66b494ed9df,arm64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0.0-preview.2-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0.0-preview.2-alpine-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0-alpine-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/aspnet/alpine3.11/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+sha256:38897e627a859b67195e7b93a76b11e38f025d7586d23c72af09a23688f22fdc,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/aspnet/focal/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+5.0.0-preview.2-focal,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/aspnet/focal/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+5.0-focal,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/aspnet/focal/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+sha256:0d9b44c67fc39d07061ee9cdbc44e5297be445d10a224bf25ed8c5b13d8ec897,arm32,windows,"Windows Server 2019",3.1.201,3.1/sdk/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1.201-nanoserver-1809-arm32v7,arm32,windows,"Windows Server 2019",3.1.201,3.1/sdk/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1-nanoserver-1809-arm32v7,arm32,windows,"Windows Server 2019",3.1.201,3.1/sdk/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+sha256:72a6096638543d3306ab42ab0344fd255775d169b5c2b3beb0f0c8e7b2430c54,amd64,windows,"Windows Server, version 1903",3.1.201,3.1/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1.201-nanoserver-1903,amd64,windows,"Windows Server, version 1903",3.1.201,3.1/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1-nanoserver-1903,amd64,windows,"Windows Server, version 1903",3.1.201,3.1/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+sha256:86eb74203c36292a8b8efb21bf150b5278e076b4078e3df6c1b896b3305f6f46,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/runtime-deps/bionic/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/runtime-deps/bionic/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/runtime-deps/bionic/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:15a76c1ed6b2e7bdcdbc3b209ee6f8e9d435a1dda73c803a41f40875908cf03c,arm64,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-buster-slim-arm64v8,arm64,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-buster-slim-arm64v8,arm64,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:4de8c90b6abff06377016829ccb030c04a2f6545551781f0b1f7e5ecd95656e6,arm32,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+5.0.0-preview.2-buster-slim-arm32v7,arm32,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+5.0-buster-slim-arm32v7,arm32,linux,"Debian 10",5.0.0,5.0/runtime-deps/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:57
+sha256:a1d7021257da2e2e3109ed4abf125fe9edde1ee214339516c6844eb9c74b4796,amd64,windows,"Windows Server 2019",2.1.17,2.1/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-nanoserver-1809,amd64,windows,"Windows Server 2019",2.1.17,2.1/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-nanoserver-1809,amd64,windows,"Windows Server 2019",2.1.17,2.1/runtime/nanoserver-1809/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:c26a713e023c5bb31cf50c9338fb12f4779d3871f9163e2a16bcb88937c7d10a,arm32,windows,"Windows Server 2019",3.1.3,3.1/runtime/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1.3-nanoserver-1809-arm32v7,arm32,windows,"Windows Server 2019",3.1.3,3.1/runtime/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1-nanoserver-1809-arm32v7,arm32,windows,"Windows Server 2019",3.1.3,3.1/runtime/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+sha256:a990b827bc0396c22d9aa2114580cd3f493b851df839678d647c2fc431e3e52e,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+3.1.3-bionic,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+3.1-bionic,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+sha256:da9c1863b6b96b7a62f8e0bc39589f0ebad6d008fc0fd754e622f016735cd228,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime/focal/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime/focal/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime/focal/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:cc25aa9a3247e95583c80e5619af1d72aa8199475845358de2885644a667f788,amd64,windows,"Windows Server, version 1903",2.1.17,2.1/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-nanoserver-1903,amd64,windows,"Windows Server, version 1903",2.1.17,2.1/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-nanoserver-1903,amd64,windows,"Windows Server, version 1903",2.1.17,2.1/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:003ee6aa05b7ceab91c4a20023344bfb89d4b95bfade435e443e3dac930aeed5,amd64,windows,"Windows Server, version 1903",3.1.3,3.1/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-nanoserver-1903,amd64,windows,"Windows Server, version 1903",3.1.3,3.1/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-nanoserver-1903,amd64,windows,"Windows Server, version 1903",3.1.3,3.1/aspnet/nanoserver-1903/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+sha256:b8af82373136aa47f7cec0148ff9c1dfc466ef80f9fb4c4a272037b589d2d091,amd64,windows,"Windows Server, version 1909",3.1.3,3.1/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1.3-nanoserver-1909,amd64,windows,"Windows Server, version 1909",3.1.3,3.1/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1-nanoserver-1909,amd64,windows,"Windows Server, version 1909",3.1.3,3.1/aspnet/nanoserver-1909/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+sha256:e2bc29726c693becb50a005c07c0a75d37758f844691fd55a1ef8bc884b0abe0,arm32,linux,"Debian 9",2.1.805,2.1/sdk/stretch/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+2.1.805-stretch-arm32v7,arm32,linux,"Debian 9",2.1.805,2.1/sdk/stretch/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+2.1-stretch-arm32v7,arm32,linux,"Debian 9",2.1.805,2.1/sdk/stretch/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+sha256:e4c126e7c8294957e01b7b15b2eec2970549d9fddf464ad2b3429b2fc40223d7,amd64,windows,"Windows Server 2019",2.1.805,2.1/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:22
+2.1.805-nanoserver-1809,amd64,windows,"Windows Server 2019",2.1.805,2.1/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:22
+2.1-nanoserver-1809,amd64,windows,"Windows Server 2019",2.1.805,2.1/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:22
+sha256:1ac90924b883e3c639f9e001a02618d2adda9711f1896736c1b64cc8bdc5743e,amd64,windows,"Windows Server, version 1909",3.1.201,3.1/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1.201-nanoserver-1909,amd64,windows,"Windows Server, version 1909",3.1.201,3.1/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1-nanoserver-1909,amd64,windows,"Windows Server, version 1909",3.1.201,3.1/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+sha256:33e66f16cf43967c200d49c42329d5d377d7f08fe4b901976201183ebdd23ace,amd64,linux,"Alpine 3.10",3.1.201,3.1/sdk/alpine3.10/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1.201-alpine3.10,amd64,linux,"Alpine 3.10",3.1.201,3.1/sdk/alpine3.10/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1-alpine3.10,amd64,linux,"Alpine 3.10",3.1.201,3.1/sdk/alpine3.10/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+sha256:c05cf8b966a5158ca9c3f3490bdadb70ef970d3be52ad58db6ccf11a7277a5d7,amd64,linux,"Alpine 3.11",5.0.100,5.0/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0.100-preview.2-alpine3.11,amd64,linux,"Alpine 3.11",5.0.100,5.0/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0-alpine3.11,amd64,linux,"Alpine 3.11",5.0.100,5.0/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0.100-preview.2-alpine,amd64,linux,"Alpine 3.11",5.0.100,5.0/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0-alpine,amd64,linux,"Alpine 3.11",5.0.100,5.0/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+sha256:8576786f3bf05da76e894a4a1cc1bf561f4549635acb5c8bea7642c80e70d2ac,amd64,linux,"Ubuntu 20.04",5.0.100,5.0/sdk/focal/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:34
+5.0.100-preview.2-focal,amd64,linux,"Ubuntu 20.04",5.0.100,5.0/sdk/focal/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:34
+5.0-focal,amd64,linux,"Ubuntu 20.04",5.0.100,5.0/sdk/focal/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:34
+sha256:c188ae66201421dc2e3eecb900e3710b39f8deee50d2dc693d7bd64b7afa55b3,arm32,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+3.1.3-buster-slim-arm32v7,arm32,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+3.1-buster-slim-arm32v7,arm32,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:9c7daa82631727fcea41448d5f2232cfc4d3c1854964ed29e1994abdf2911430,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/arm32v7/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:5f9f047caea7095a6fbbdf13fcb38d11344a78f889014b2987a970cb00a52019,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime-deps/focal/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0.0-preview.2-focal,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime-deps/focal/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0-focal,amd64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime-deps/focal/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+sha256:1cff9047a614eff09fffe1f97647a9a5b25e8d794f5d58ca8998d63b4034f267,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/runtime/bionic/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-bionic,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/runtime/bionic/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-bionic,amd64,linux,"Ubuntu 18.04",2.1.17,2.1/runtime/bionic/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:7099cd24abc0abbe6571a23f3c1cc1f83591f82e4b95c97df6339d56ccf15ba6,arm64,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1.3-buster-slim-arm64v8,arm64,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1-buster-slim-arm64v8,arm64,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+sha256:9d7763e1b4b0fae9a8a5b0ff33bfd7d77b64d666da47e852dad5277599972791,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1.3-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1.3-alpine-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1-alpine-arm64v8,arm64,linux,"Alpine 3.11",3.1.3,3.1/runtime/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+sha256:424876f70462154abdb3aa199d720b9fd805d58e5194043bc30f60856689f467,amd64,windows,"Windows Server, version 1903",5.0.0,5.0/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-nanoserver-1903,amd64,windows,"Windows Server, version 1903",5.0.0,5.0/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-nanoserver-1903,amd64,windows,"Windows Server, version 1903",5.0.0,5.0/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:9c815f3617ef23a1308aa14de8c6948f577d710600a48db6e798e97c4b491a42,amd64,windows,"Windows Server 2019",2.1.17,2.1/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-nanoserver-1809,amd64,windows,"Windows Server 2019",2.1.17,2.1/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-nanoserver-1809,amd64,windows,"Windows Server 2019",2.1.17,2.1/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:aacf242e5f2567bd78531b47175b11887b9e57d2d5b440c7aa2ef616b9130f32,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-bionic,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-bionic,amd64,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+sha256:21a6da8815bfe104e95862cf5e83f7a3a21d8190830f486a38ae2c11646f34e8,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:18
+3.1.3-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:18
+3.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/aspnet/bionic/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:18
+sha256:913a7612a21b8415f635b0fe699c704b884de62be537a99f006c4df9fdc5003c,amd64,windows,"Windows Server, version 1903",2.1.805,2.1/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+2.1.805-nanoserver-1903,amd64,windows,"Windows Server, version 1903",2.1.805,2.1/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+2.1-nanoserver-1903,amd64,windows,"Windows Server, version 1903",2.1.805,2.1/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:20
+sha256:fb383926f7d2f14929edf9d229d3d6ac19763d8f22bc7a4e0d6f741835e4b094,amd64,windows,"Windows Server, version 1909",2.1.805,2.1/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:22
+2.1.805-nanoserver-1909,amd64,windows,"Windows Server, version 1909",2.1.805,2.1/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:22
+2.1-nanoserver-1909,amd64,windows,"Windows Server, version 1909",2.1.805,2.1/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:22
+sha256:e841ccabd7df91acc3869e3edb7f82b282b6585e5a9b828651a3b03a10062297,amd64,linux,"Alpine 3.11",3.1.201,3.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1.201-alpine3.11,amd64,linux,"Alpine 3.11",3.1.201,3.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1-alpine3.11,amd64,linux,"Alpine 3.11",3.1.201,3.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1.201-alpine,amd64,linux,"Alpine 3.11",3.1.201,3.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1-alpine,amd64,linux,"Alpine 3.11",3.1.201,3.1/sdk/alpine3.11/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+sha256:2dfe2a9523d681e125f645ed469bf04c46baf62fd5d8268c730af68ec7ecb035,amd64,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1.201-bionic,amd64,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1-bionic,amd64,linux,"Ubuntu 18.04",3.1.201,3.1/sdk/bionic/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+sha256:52dfa446026b4def95c046f8ef804e17ec3ad9ba37ab9791365d0fb3ce9ac656,amd64,windows,"Windows Server, version 1903",5.0.100,5.0/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0.100-preview.2-nanoserver-1903,amd64,windows,"Windows Server, version 1903",5.0.100,5.0/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0-nanoserver-1903,amd64,windows,"Windows Server, version 1903",5.0.100,5.0/sdk/nanoserver-1903/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+sha256:6991e2b649f264ccfdb51020212f804a0141224509bb5ce2ee21df196203bebe,amd64,windows,"Windows Server, version 1909",5.0.100,5.0/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:33
+5.0.100-preview.2-nanoserver-1909,amd64,windows,"Windows Server, version 1909",5.0.100,5.0/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:33
+5.0-nanoserver-1909,amd64,windows,"Windows Server, version 1909",5.0.100,5.0/sdk/nanoserver-1909/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:33
+sha256:91ca36b465b3a7fbd146f7eecc62d969e04a509defd3eb74e67281b852de341f,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-alpine3.11,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-alpine3.11,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1.17-alpine,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+2.1-alpine,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime-deps/alpine3.11/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:2f0c037c4d86c9c0469a33209087fe1120aa54b1ddd1a7be66d3cb3dbfdda940,arm64,linux,"Alpine 3.10",3.1.3,3.1/runtime-deps/alpine3.10/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-alpine3.10-arm64v8,arm64,linux,"Alpine 3.10",3.1.3,3.1/runtime-deps/alpine3.10/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-alpine3.10-arm64v8,arm64,linux,"Alpine 3.10",3.1.3,3.1/runtime-deps/alpine3.10/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:e166baf3b09da14585ca845a9cbd9f903661434c85a1956d6ddf575551754d7c,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0.0-preview.2-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0-alpine3.11-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0.0-preview.2-alpine-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0-alpine-arm64v8,arm64,linux,"Alpine 3.11",5.0.0,5.0/runtime-deps/alpine3.11/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+sha256:e14c29a0167c68a46ac5a07c93a629c6a74b67ae7cadc778a8ef117af0d4b485,amd64,linux,"Alpine 3.10",2.1.17,2.1/runtime/alpine3.10/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-alpine3.10,amd64,linux,"Alpine 3.10",2.1.17,2.1/runtime/alpine3.10/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-alpine3.10,amd64,linux,"Alpine 3.10",2.1.17,2.1/runtime/alpine3.10/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:6d66e80b6618bb522b2c6ded26567b023f3b2526931d43b59a5d3148218e2564,arm32,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1.3-buster-slim-arm32v7,arm32,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1-buster-slim-arm32v7,arm32,linux,"Debian 10",3.1.3,3.1/runtime/buster-slim/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+sha256:d35077821d01d07ca2aec5c1b48ad7603359847e6901894efa2e27948a86e60d,arm64,linux,"Alpine 3.10",3.1.3,3.1/runtime/alpine3.10/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1.3-alpine3.10-arm64v8,arm64,linux,"Alpine 3.10",3.1.3,3.1/runtime/alpine3.10/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+3.1-alpine3.10-arm64v8,arm64,linux,"Alpine 3.10",3.1.3,3.1/runtime/alpine3.10/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:05
+sha256:4ef06261c304e8cbe9b85fd41725cb86f5f2e2d623f8402338230c1ff932cc1c,arm64,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-buster-slim-arm64v8,arm64,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-buster-slim-arm64v8,arm64,linux,"Debian 10",5.0.0,5.0/runtime/buster-slim/arm64v8/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:fe51f4d5727e3156a837dc24f5d53c750b68923797920293957b6c62d0ac449c,amd64,linux,"Debian 9",2.1.17,2.1/aspnet/stretch-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-stretch-slim,amd64,linux,"Debian 9",2.1.17,2.1/aspnet/stretch-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-stretch-slim,amd64,linux,"Debian 9",2.1.17,2.1/aspnet/stretch-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:f8382743cf8361e72df8d286ad8e211763bef841a1b8a41287f5a866b65a8c1c,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/aspnet/bionic/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:14
+2.1.17-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/aspnet/bionic/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:14
+2.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",2.1.17,2.1/aspnet/bionic/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:14
+sha256:34b9a64d8ab688f1559a9c66915ced03500ffabcfd5d555d15d118c60e472d56,amd64,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:16
+3.1.3-buster-slim,amd64,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:16
+3.1-buster-slim,amd64,linux,"Debian 10",3.1.3,3.1/aspnet/buster-slim/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:16
+sha256:bda2c9c4bc571da7c70979794e2e7ef557251a283791b040bb122edacd92dc41,arm32,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0.0-preview.2-buster-slim-arm32v7,arm32,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0-buster-slim-arm32v7,arm32,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+sha256:ecd2e4e6e9ccbff46ff4e3ff4fb5ef4c1633fe504a53ee087d87a60d00d5a652,arm64,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+5.0.0-preview.2-buster-slim-arm64v8,arm64,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+5.0-buster-slim-arm64v8,arm64,linux,"Debian 10",5.0.0,5.0/aspnet/buster-slim/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:21
+sha256:53019250ff27a2355d2e5f795f379c3215f2992723eea133a8d999c931fe7696,arm64,linux,"Debian 10",3.1.201,3.1/sdk/buster/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1.201-buster-arm64v8,arm64,linux,"Debian 10",3.1.201,3.1/sdk/buster/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+3.1-buster-arm64v8,arm64,linux,"Debian 10",3.1.201,3.1/sdk/buster/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:26
+sha256:37ef3691ed2fe12dc94869bfc93e5935aee994d1b5c0c8904dc875bc25481a32,amd64,windows,"Windows Server 2019",3.1.201,3.1/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1.201-nanoserver-1809,amd64,windows,"Windows Server 2019",3.1.201,3.1/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1-nanoserver-1809,amd64,windows,"Windows Server 2019",3.1.201,3.1/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+sha256:7495b0a30be3b038b12d55fc4d26bb58ab792e8102204386604a69d5b9560088,arm64,linux,"Ubuntu 20.04",5.0.100,5.0/sdk/focal/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:31
+5.0.100-preview.2-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.100,5.0/sdk/focal/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:31
+5.0-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.100,5.0/sdk/focal/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:31
+sha256:81364b2bf360e820ecaf8e8dd713070a3afeb34fd890f5b29a4b4d46d01fa741,amd64,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+3.1.3-buster-slim,amd64,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+3.1-buster-slim,amd64,linux,"Debian 10",3.1.3,3.1/runtime-deps/buster-slim/amd64/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:52
+sha256:f35678364fb4756cb97030131069e7e367aa217a7ab5f75b9c0d427cb3ee3c17,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1.3-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+3.1-bionic-arm64v8,arm64,linux,"Ubuntu 18.04",3.1.3,3.1/runtime-deps/bionic/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:55
+sha256:8f2a2906222e53d9be39bbd17da99082ebfd1e9240e64a8cb37db2ff0e75e854,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime-deps/focal/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0.0-preview.2-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime-deps/focal/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+5.0-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/runtime-deps/focal/arm64v8/Dockerfile,dotnet/core/runtime-deps,2020-04-16 14:29:58
+sha256:f7e2910cb88b7535383184723d97de0b29cacc192d9610ef6496549b338cb2e1,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-alpine3.11,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-alpine3.11,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1.17-alpine,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+2.1-alpine,amd64,linux,"Alpine 3.11",2.1.17,2.1/runtime/alpine3.11/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:01
+sha256:65542f54fa14509d415ec844fd1029893103771bf787b36385e9d59be8c104b3,amd64,windows,"Windows Server, version 1903",3.1.3,3.1/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1.3-nanoserver-1903,amd64,windows,"Windows Server, version 1903",3.1.3,3.1/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+3.1-nanoserver-1903,amd64,windows,"Windows Server, version 1903",3.1.3,3.1/runtime/nanoserver-1903/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:03
+sha256:c1edc1c97e8373c28041eec19ba0eb299c35fb7b109ffb20b80c87e9746b8379,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+3.1.3-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+3.1-bionic-arm32v7,arm32,linux,"Ubuntu 18.04",3.1.3,3.1/runtime/bionic/arm32v7/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:06
+sha256:c88666d718d5e07ae96021ce5a6d634b2ecaf56cb271fe0d288fd906e96ccf1d,amd64,windows,"Windows Server, version 1909",5.0.0,5.0/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0.0-preview.2-nanoserver-1909,amd64,windows,"Windows Server, version 1909",5.0.0,5.0/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+5.0-nanoserver-1909,amd64,windows,"Windows Server, version 1909",5.0.0,5.0/runtime/nanoserver-1909/amd64/Dockerfile,dotnet/core/runtime,2020-04-16 14:30:09
+sha256:3a8edae180474e1f49e4e6b5ffa71ab37191111656824e53e7831ff26163aecb,amd64,linux,"Alpine 3.10",2.1.17,2.1/aspnet/alpine3.10/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1.17-alpine3.10,amd64,linux,"Alpine 3.10",2.1.17,2.1/aspnet/alpine3.10/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+2.1-alpine3.10,amd64,linux,"Alpine 3.10",2.1.17,2.1/aspnet/alpine3.10/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:12
+sha256:965ab0db70663d2950cdf8fa1db7c4d2cefc1cfd49a63c7bd9d6cf7dd1bf2474,amd64,windows,"Windows Server 2019",3.1.3,3.1/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1.3-nanoserver-1809,amd64,windows,"Windows Server 2019",3.1.3,3.1/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+3.1-nanoserver-1809,amd64,windows,"Windows Server 2019",3.1.3,3.1/aspnet/nanoserver-1809/amd64/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:15
+sha256:393dfe9e576d8be1872a01a208693975c0cb302ae25df9ebe637e0d01bc7b36f,arm32,windows,"Windows Server 2019",3.1.3,3.1/aspnet/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1.3-nanoserver-1809-arm32v7,arm32,windows,"Windows Server 2019",3.1.3,3.1/aspnet/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+3.1-nanoserver-1809-arm32v7,arm32,windows,"Windows Server 2019",3.1.3,3.1/aspnet/nanoserver-1809/arm32v7/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:17
+sha256:ff1b903ab4c2a475728c22c6ceae17e03485dfb0ab20ac1402c2cac28f5e2d84,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/aspnet/focal/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0.0-preview.2-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/aspnet/focal/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+5.0-focal-arm64v8,arm64,linux,"Ubuntu 20.04",5.0.0,5.0/aspnet/focal/arm64v8/Dockerfile,dotnet/core/aspnet,2020-04-16 14:30:19
+sha256:1adad5040474bd2a616059e3ed10dfb4d9e35eda4c9672f91d56d9156f844c0c,amd64,linux,"Debian 9",2.1.805,2.1/sdk/stretch/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:21
+2.1.805-stretch,amd64,linux,"Debian 9",2.1.805,2.1/sdk/stretch/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:21
+2.1-stretch,amd64,linux,"Debian 9",2.1.805,2.1/sdk/stretch/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:21
+sha256:3b4e0153b9de8d9a63b2aadd6211dd41d3524ad74e8ef0fc3824e03a38625cde,amd64,linux,"Debian 10",3.1.201,3.1/sdk/buster/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:25
+3.1.201-buster,amd64,linux,"Debian 10",3.1.201,3.1/sdk/buster/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:25
+3.1-buster,amd64,linux,"Debian 10",3.1.201,3.1/sdk/buster/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:25
+sha256:adbfd674329ffd82279f22dc43d88391c228786cf31ee90eb5bccaeb0a21979a,arm32,linux,"Debian 10",3.1.201,3.1/sdk/buster/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1.201-buster-arm32v7,arm32,linux,"Debian 10",3.1.201,3.1/sdk/buster/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+3.1-buster-arm32v7,arm32,linux,"Debian 10",3.1.201,3.1/sdk/buster/arm32v7/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:28
+sha256:dad771b8b0d7ecd38f39d245b5c83843769bcadb52bbdb8b422ba1d743374bc9,arm64,linux,"Debian 10",5.0.100,5.0/sdk/buster/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0.100-preview.2-buster-arm64v8,arm64,linux,"Debian 10",5.0.100,5.0/sdk/buster/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+5.0-buster-arm64v8,arm64,linux,"Debian 10",5.0.100,5.0/sdk/buster/arm64v8/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:30
+sha256:3a563bc46cf2b4ea8e7e2bb267695ae3bfa0c69b91285154cf19ca1d11e0c743,amd64,windows,"Windows Server 2019",5.0.100,5.0/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:32
+5.0.100-preview.2-nanoserver-1809,amd64,windows,"Windows Server 2019",5.0.100,5.0/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:32
+5.0-nanoserver-1809,amd64,windows,"Windows Server 2019",5.0.100,5.0/sdk/nanoserver-1809/amd64/Dockerfile,dotnet/core/sdk,2020-04-16 14:30:32
